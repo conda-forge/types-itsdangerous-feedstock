@@ -1,5 +1,5 @@
 {% set name = "types-itsdangerous" %}
-{% set version = "1.1.4" %}
+{% set version = "1.1.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-itsdangerous-{{ version }}.tar.gz
-  sha256: 6f22dea3059dc0fa694acc6f63ff0aba88eddf0ee0a969700ccff889c3b55b65
+  sha256: e3085cdfb0554b601c29635eec6af0b39abc717ff078d16b15eeaba778c13b6e
 
 build:
   number: 0
